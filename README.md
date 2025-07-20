@@ -32,7 +32,7 @@ Moody is an expressive Android app that responds to your current mood with perso
 - **IDE:** Android Studio  
 - **UI:** XML Layouts, Spinner, ImageView, TextView  
 - **Data Flow:** Intent + Bundle  
-- **Animation:** Alpha fade-in via `res/anim/fade_in.xml`  
+- **AI Assistant:** Microsoft Co-pilot 
 - **Assets:** Custom PNG emojis placed in `res/drawable`
 
 ---
