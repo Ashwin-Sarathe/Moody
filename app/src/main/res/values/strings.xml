@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Moody</string>
+    <string name="moody">MOODY</string>
+    <string name="for_days_when_your_mood_needs_subtitles">For Days When Your Mood Needs Subtitles!</string>
+    <string name="type_your_name_bro">Type Your Name Bro!!</string>
+    <string name="name">Name</string>
+    <string name="how_are_u_feeling_now">How Are U Feeling Now?</string>
+    <string name="moodify_me">Moodify Me!!!</string>
+    <string name="you_are_in_happy_mood">You are in happy mood!!</string>
+    <string-array name="moodList">
+        <item>Happy</item>
+        <item>Chill</item>
+        <item>Angry</item>
+        <item>Excited</item>
+        <item>Moody</item>
+        <item>Sad</item>
+        <item>Tired</item>
+    </string-array>
+</resources>
